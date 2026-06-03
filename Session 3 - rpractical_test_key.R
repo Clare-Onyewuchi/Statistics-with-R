@@ -2,7 +2,7 @@
 #     Session 3         #
 #   R-practical Key     #
 #   Statistics with R   #
-#      Seda Erdem       #
+#      Clare Onyewuchi     #
 #                       #
 #########################
 
