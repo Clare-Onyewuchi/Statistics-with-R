@@ -3,7 +3,7 @@
 # Correlation/regression#
 #   R-practical Key     #
 #   Statistics with R   #
-#      Seda Erdem       #
+#     Clare Onyewuchi     #
 #                       #
 #########################
 
